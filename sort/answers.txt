@@ -1,0 +1,20 @@
+sort1 uses: Bubble sort
+
+How do you know?: It was the fastest in sorted list
+time to process 5,424s (random, 50000)
+time to process 0,405s (sorted, 50000)
+time to process 4,786s (reversed, 50000)
+
+sort2 uses: Merge sort
+
+How do you know?: It was the fastest in unsorted list
+time to process 0,383s (random, 50000)
+time to process 0,325s (sorted, 50000)
+time to process 0,306s (reversed, 50000)
+
+sort3 uses: Selection sort
+
+How do you know?: It was the slowest in sorted list
+time to process 2,120s (random, 50000)
+time to process 2,082s (sorted, 50000)
+time to process 2,455s (reversed, 50000)
